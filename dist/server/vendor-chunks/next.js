@@ -437,16 +437,6 @@ eval("module.exports = __webpack_require__(/*! ./dist/pages/_document */ \"(page
 
 /***/ }),
 
-/***/ "(pages-dir-node)/./node_modules/next/head.js":
-/*!***********************************!*\
-  !*** ./node_modules/next/head.js ***!
-  \***********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__(/*! ./dist/shared/lib/head */ \"(pages-dir-node)/./node_modules/next/dist/shared/lib/head.js\")\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHBhZ2VzLWRpci1ub2RlKS8uL25vZGVfbW9kdWxlcy9uZXh0L2hlYWQuanMiLCJtYXBwaW5ncyI6IkFBQUEsa0lBQWtEIiwic291cmNlcyI6WyIvVXNlcnMvc2FoaWx3ZWxlY2hhL29wdGltaXphdGlvbi1wbGF0Zm9ybS1uZXcvbm9kZV9tb2R1bGVzL25leHQvaGVhZC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IHJlcXVpcmUoJy4vZGlzdC9zaGFyZWQvbGliL2hlYWQnKVxuIl0sIm5hbWVzIjpbXSwiaWdub3JlTGlzdCI6WzBdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(pages-dir-node)/./node_modules/next/head.js\n");
-
-/***/ }),
-
 /***/ "./node_modules/next/dist/build/templates/helpers.js":
 /*!***********************************************************!*\
   !*** ./node_modules/next/dist/build/templates/helpers.js ***!
